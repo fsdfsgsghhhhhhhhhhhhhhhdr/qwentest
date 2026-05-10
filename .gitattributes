@@ -1,4 +1,5 @@
 *.dat binary
+*.hsk binary
 *.json text
 *.html text
 *.js text
